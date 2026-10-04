@@ -129,12 +129,6 @@ The screenshots demonstrate both clean and malicious VirusTotal verdicts and the
 
 ---
 
-## 📄 Project Evidence
-
-Supporting screenshots and project evidence will be added to this repository.
-
----
-
 ## 👨‍💻 Author
 
 **Benard Obi Kekong**
