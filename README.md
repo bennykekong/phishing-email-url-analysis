@@ -119,13 +119,20 @@ It also reinforced the importance of using multiple indicators and security-engi
 ### 4. Malicious URL Analysis
 ![Malicious URL Analysis](screenshots/04-malicious-url-analysis.png)
 
+### 5. Assessment Result — 24/30
+![Phishing Assessment Result 24 of 30](screenshots/05-phishing-assessment-result-24-of-30.png)
+
 ---
 
 ## 📄 Project Evidence
 
 Selected screenshots from the completed phishing email and malicious-URL analysis are included in this repository as supporting evidence.
 
-[📄 View Phishing Email Analysis Submission](Phishing%20Email%20Analysis%20Submission.docx) 
+[📄 View Phishing Email Analysis Submission](Phishing%20Email%20Analysis%20Submission.docx)
+
+**Assessment result:** 24/30
+
+[🏆 View Assessment Result](screenshots/05-phishing-assessment-result-24-of-30.png)
 
 The screenshots demonstrate both clean and malicious VirusTotal verdicts and the reasoning used to classify suspicious links.
 
