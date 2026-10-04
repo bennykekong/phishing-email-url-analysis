@@ -105,6 +105,29 @@ This project strengthened my ability to investigate suspicious links and evaluat
 It also reinforced the importance of using multiple indicators and security-engine results rather than relying on a single detection source.
 
 ---
+## 📸 Project Screenshots
+
+### 1. Email #2 — Phishing Analysis
+![Email 2 Phishing Analysis](screenshots/01-email-2-phishing-analysis.png)
+
+### 2. Email #5 — High-Risk Phishing
+![Email 5 High Risk Phishing](screenshots/02-email-5-high-risk-phishing.png)
+
+### 3. Clean URL Analysis
+![Clean URL Analysis](screenshots/03-clean-url-analysis.png)
+
+### 4. Malicious URL Analysis
+![Malicious URL Analysis](screenshots/04-malicious-url-analysis.png)
+
+---
+
+## 📄 Project Evidence
+
+Selected screenshots from the completed phishing email and malicious-URL analysis are included in this repository as supporting evidence.
+
+The screenshots demonstrate both clean and malicious VirusTotal verdicts and the reasoning used to classify suspicious links.
+
+---
 
 ## 📄 Project Evidence
 
