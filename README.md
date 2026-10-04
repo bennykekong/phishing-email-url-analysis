@@ -125,7 +125,7 @@ It also reinforced the importance of using multiple indicators and security-engi
 
 Selected screenshots from the completed phishing email and malicious-URL analysis are included in this repository as supporting evidence.
 
-[📄 View Phishing Email Analysis Submission](phishing-email-analysis-submission.docx)
+[📄 View Phishing Email Analysis Submission](Phishing%20Email%20Analysis%20Submission.docx) 
 
 The screenshots demonstrate both clean and malicious VirusTotal verdicts and the reasoning used to classify suspicious links.
 
